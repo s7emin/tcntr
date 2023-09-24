@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /t/$ 
+Sitemap: https://t-cntr.ru/sitemap.xml
